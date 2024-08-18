@@ -1,0 +1,7 @@
+.card{
+    box-shadow: 0 20px 20px rgba(32, 31, 31, 0.251) ;
+}
+.nav{
+    box-shadow: 0 8px 32px 0 rgba(150, 246, 131, 0.37);
+    backdrop-filter: blur( 4px );
+}
